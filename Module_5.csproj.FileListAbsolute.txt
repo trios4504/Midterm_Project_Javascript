@@ -1,0 +1,8 @@
+/Users/thomas/Desktop/WEB 192 Projects/Module_5/Module_1/obj/Debug/netcoreapp3.1/Module_5.csprojAssemblyReference.cache
+/Users/thomas/Desktop/WEB 192 Projects/Module_5/Module_1/obj/Debug/netcoreapp3.1/Module_5.AssemblyInfoInputs.cache
+/Users/thomas/Desktop/WEB 192 Projects/Module_5/Module_1/obj/Debug/netcoreapp3.1/Module_5.AssemblyInfo.cs
+/Users/thomas/Desktop/WEB 192 Projects/Module_5/Module_1/obj/Debug/netcoreapp3.1/Module_5.csproj.CoreCompileInputs.cache
+/Users/thomas/Desktop/WEB 192 Projects/Module_5/Module_1/obj/Debug/netcoreapp3.1/Module_5.MvcApplicationPartsAssemblyInfo.cs
+/Users/thomas/Desktop/WEB 192 Projects/Module_5/Module_1/obj/Debug/netcoreapp3.1/Module_5.MvcApplicationPartsAssemblyInfo.cache
+/Users/thomas/Desktop/WEB 192 Projects/Module_5/Module_1/obj/Debug/netcoreapp3.1/Module_5.RazorAssemblyInfo.cache
+/Users/thomas/Desktop/WEB 192 Projects/Module_5/Module_1/obj/Debug/netcoreapp3.1/Module_5.RazorAssemblyInfo.cs
