@@ -74,7 +74,7 @@ $(document).ready(function () {
 
         for (var element in data) {
             if (counter == 5) {
-                tbody.appendTo(tr);
+                tbody.append(tr);
                 tr = $("<tr></tr>");
                 counter = 0;
             }
@@ -83,12 +83,12 @@ $(document).ready(function () {
             td = $("<td></td>");
             $("<span></span>").text(image.imageAlt).css("margin-right", "10px")
                 .appendTo(td);
-            tr.appendTo(td);
+            tr.append(td);
 
             counter++;
         }
 
-        tbody.appendTo(tr);
+        tbody.append(tr);
 
 
         //ImageContainer
